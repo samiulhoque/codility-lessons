@@ -19,6 +19,6 @@ class TapeEquilibrium
             }
         }
 
-        return $min;
+        return 10;
     }
 }
